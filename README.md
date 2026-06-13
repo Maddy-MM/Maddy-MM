@@ -1,135 +1,204 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Madhav%20Makwana&fontSize=52&fontColor=c9d1d9&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Deep%20Learning%20Researcher&descSize=18&descAlignY=58&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:203a43,100:2c5364&height=220&section=header&text=Madhav%20Makwana&fontSize=56&fontColor=e6edf3&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20MLOps%20%E2%80%A2%20GenAI&descSize=20&descAlignY=58&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+GenAI+systems+%F0%9F%A4%96;RAG+pipelines+%7C+LLM+agents+%7C+Deep+Learning;B.Tech+Engineering+Physics+%40+DTU+%E2%80%A2+2026)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=740&lines=🤖+Building+Production-Grade+GenAI+%26+ML+Systems;⚡+FastAPI+%7C+LangChain+%7C+Docker+%7C+Redis+%7C+Prometheus;🔍+RAG+Pipelines+%7C+LLM+Agents+%7C+Agentic+AI;🧪+scikit-learn+%7C+TensorFlow+%7C+Keras+%7C+NLP;📍+New+Delhi%2C+India+%E2%80%A2+Open+to+Work+2026)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-makwana-5331a4319/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavmakwana.mm@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Maddy-MM&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Maddy-MM)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I'm a final-year **Engineering Physics** student at **Delhi Technological University**, building at the intersection of deep learning research and production AI engineering.
+```python
+class MadhavMakwana:
+    def __init__(self):
+        self.role      = "AI Engineer · Backend · MLOps"
+        self.education = "B.Tech Engineering Physics — DTU, New Delhi (2026)"
+        self.builds    = [
+            "Production RAG pipelines — real retrieval, real evals, real infra",
+            "Multi-agent LLM systems with observability baked in from day one",
+            "Hardened FastAPI backends — JWT, caching, logging, Dockerized",
+            "ML inference APIs that survive production traffic",
+        ]
+        self.currently = "Exploring advanced agentic patterns & LLM evaluation"
+        self.open_to   = "Full-time AI · ML · Backend Engineering roles — 2026"
 
-My work spans two ends of the spectrum — from training hybrid **TCN-Transformer** models to detect gravitational microlensing events in space telescope data, to shipping full-stack **RAG pipelines** and **multi-agent LLM systems** with Docker, FastAPI, and cloud deployments.
-
-I'm actively targeting **Generative AI & ML Engineering** roles (fresher, 2026), and I care deeply about systems that don't just work in notebooks — they work in production.
-
-- 🔭 &nbsp;Currently: finalizing B.Tech thesis on astrophysical event detection with deep learning
-- 🚀 &nbsp;Building: GenAI-powered tools with real retrieval, real evals, real infra
-- 📍 &nbsp;Based in New Delhi, India
-- 📬 &nbsp;Open to: full-time GenAI / ML Engineering roles
+    def philosophy(self) -> str:
+        return "Working in notebooks is a prototype. Working in production is the goal."
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=008080)
+<div align="center">
 
-### AI / ML / Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=412991)
+**GenAI · LLM · RAG**
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F54F29?style=for-the-badge&logo=groq&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0082FB?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Infra & DevOps
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+**Backend · APIs**
 
-### Vector DBs & Retrieval
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0082FB)
-![BGE Embeddings](https://img.shields.io/badge/BGE%20Embeddings-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**ML · Deep Learning · NLP**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+
+**MLOps · DevOps · Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-6bbd3e?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>🧠 ResearchMind — Multi-Agent AI Research System</b></summary>
 
-### 🔭 Gravitational Microlensing Detection
-> *B.Tech Thesis · Deep Learning · Astrophysics*
+<br/>
 
-Designed a **hybrid TCN-Transformer** architecture to detect gravitational microlensing events in OGLE survey time-series data — a needle-in-a-haystack problem at astronomical scale.
+> A 4-step agentic pipeline that doesn't just answer — it critiques its own work.
 
-- **ROC-AUC: 0.9995** &nbsp;|&nbsp; **PR-AUC: 0.998**
-- Temporal Convolutional Networks + Transformer attention
-- Trained on real-world photometric survey data
-- Supervised by Dr. Kamal Kishor, DTU
+**search → scrape → write → critique.** The Critic Chain is a dedicated LLM agent that scores and rewrites the pipeline's own output for accuracy and depth. Hallucination reduction by design, not by accident.
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&logo=numpy)
+| Layer | Stack |
+|---|---|
+| Agentic orchestration | LangChain · Groq API · Tavily web search · BeautifulSoup4 |
+| Backend | FastAPI · JWT auth · JSON logging with trace IDs · AsyncIO |
+| Self-evaluation | Critic Chain — accuracy + depth scoring loop |
+| Observability | Prometheus histograms · error counters · full async test suite |
+| Deployment | Docker · Render · Streamlit Cloud |
 
-</td>
-<td width="50%" valign="top">
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-research-system-jhb7jlklgmucvhtmptz5dm.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM/ai-research-system)
 
-### 🎬 YTLens — YouTube RAG Q&A
-> *Full-Stack · RAG · Production Deployment*
+</details>
 
-A production-grade RAG system that lets you have intelligent conversations with any YouTube video — backed by real embeddings, real retrieval, real auth.
+---
 
-- **BGE embeddings** + MMR retrieval for diverse, precise answers
-- **JWT authentication** — full user session management
-- **FastAPI** backend · **Streamlit** frontend · **Docker** + **Render**
-- Resilient transcript fetching: direct → proxy → manual fallback
+<details open>
+<summary><b>🎬 YTLens — RAG-Powered YouTube Q&A</b></summary>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Maddy--MM-0d1117?style=flat-square&logo=github)](https://github.com/Maddy-MM)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0d1117?style=flat-square&logo=huggingface)
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> Semantic conversations with any YouTube video. Grounded, not hallucinated.
 
-### 🧠 ResearchMind — Multi-Agent Research Pipeline
-> *Agentic AI · LLM Orchestration · Observability*
+End-to-end RAG pipeline: transcript ingestion → BGE embeddings → FAISS vector store → grounded LLM responses. Swapped plain similarity search for MMR retrieval (k=5, fetch k=20) for answer diversity. Hardened with a 3-layer transcript fallback so it never hard-fails.
 
-A 4-step autonomous research pipeline that takes a question and returns a rigorously self-evaluated answer — complete with a **Critic Chain** that challenges and refines its own outputs.
+| Layer | Stack |
+|---|---|
+| Retrieval | BGE embeddings · FAISS · MMR retrieval (k=5, fetch k=20) |
+| Resilience | Direct → residential proxy → manual fallback — zero hard failures |
+| Auth & persistence | bcrypt JWT · SQLAlchemy · full user session management |
+| Deployment | Docker · Render · UptimeRobot keep-alive |
 
-- **Critic Chain** self-evaluation loop for answer quality
-- **Prometheus** metrics for full observability
-- Multi-agent orchestration with tool use
-- Deployed: **Docker** · **Render** · **Streamlit Cloud**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://youtube-rag-chatbot-jixvzdtnxgbinlnnr4hbqo.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM/youtube-rag-assistant)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Maddy--MM-0d1117?style=flat-square&logo=github)](https://github.com/Maddy-MM)
-![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain) ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker) ![Prometheus](https://img.shields.io/badge/-Prometheus-0d1117?style=flat-square&logo=prometheus)
+</details>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📚 Advanced RAG — Deep Dive
-> *Research · Architecture · Production Patterns*
+<details open>
+<summary><b>🚗 Car Price Prediction API — Production ML Inference</b></summary>
 
-An 8-part structured exploration of RAG system architecture — from naive RAG failure modes to production-grade patterns used at scale.
+<br/>
 
-- Hybrid retrieval, query transformation, re-ranking
-- Self-RAG, Corrective RAG, agentic patterns
-- RAGAS evaluation framework
-- Chunking strategies, embedding trade-offs, latency optimization
+> A Random Forest model that's actually deployed, cached, monitored, and load-tested.
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0d1117?style=flat-square&logo=huggingface) ![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain)
+scikit-learn `ColumnTransformer` pipeline (scaling + encoding) served via FastAPI. Redis eliminates redundant inference on repeated inputs. Prometheus + Grafana for observability. Locust for load testing. Dual-layer auth before any of that even runs.
 
-</td>
-</tr>
-</table>
+| Layer | Stack |
+|---|---|
+| Inference | scikit-learn Random Forest · ColumnTransformer · joblib |
+| Caching | Redis — eliminates redundant inference on repeated inputs |
+| Auth | JWT + API key dual-layer · custom logging middleware |
+| Observability | Prometheus · Grafana dashboards · Locust load testing |
+| Deployment | Docker · Render |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://car-value-inference-api.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM/car-value-inference-api)
+
+</details>
+
+---
+
+<details>
+<summary><b>🎬 Film Recommendation Engine — Content-Based Filtering</b></summary>
+
+<br/>
+
+> TF-IDF + cosine similarity over 5,000+ titles. Sub-second retrieval.
+
+Content-based recommender using TF-IDF vectorization over genre, cast, crew, and synopsis fused into a single normalized feature vector. Custom text normalization pipeline (lowercasing, stop-word removal, lemmatization). Streamlit frontend with live TMDB poster fetching.
+
+`Python` · `scikit-learn` · `TF-IDF` · `Cosine Similarity` · `TMDB API` · `Streamlit`
+
+</details>
+
+---
+
+<details>
+<summary><b>📩 SMS Spam Classifier — NLP Pipeline</b></summary>
+
+<br/>
+
+> 97% accuracy. BernoulliNB. Benchmarked, not just trained.
+
+Binary spam classifier on the UCI SMS dataset. Preprocessing: tokenization, Porter stemming, stop-word removal. Benchmarked Multinomial NB, Bernoulli NB, and Gaussian NB — BernoulliNB won on precision. Deployed as a real-time Streamlit inference UI.
+
+`Python` · `NLTK` · `TF-IDF` · `BernoulliNB` · `scikit-learn` · `Streamlit`
+
+</details>
+
+---
+
+<details>
+<summary><b>🧬 Customer Churn Prediction — ANN + REST API</b></summary>
+
+<br/>
+
+> Keras ANN → FastAPI endpoint → Docker Hub image. End to end.
+
+Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dataset, ~86% accuracy. Exposed via FastAPI with Pydantic input validation. Containerized and published to Docker Hub — one-command deployment.
+
+`Python` · `TensorFlow/Keras` · `FastAPI` · `Pydantic` · `Docker`
+
+</details>
 
 ---
 
@@ -137,33 +206,21 @@ An 8-part structured exploration of RAG system architecture — from naive RAG f
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maddy-MM&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy-MM&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maddy-MM&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy-MM&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook"/>
 
-</div>
+<br/>
 
-<div align="center">
+<img width="68%" src="https://streak-stats.demolab.com?user=Maddy-MM&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e"/>
 
-<img src="https://streak-stats.demolab.com?user=Maddy-MM&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%"/>
+<br/>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maddy-MM&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true&area_color=1f3a5f" width="100%"/>
 
-<div align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Maddy-MM&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhav%20Makwana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-makwana-5331a4319/)
-[![GitHub](https://img.shields.io/badge/GitHub-Maddy--MM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM)
-[![Email](https://img.shields.io/badge/Email-Open%20to%20Opportunities-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<img src="https://github-profile-trophy.vercel.app/?username=Maddy-MM&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
@@ -171,10 +228,19 @@ An 8-part structured exploration of RAG system architecture — from naive RAG f
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Maddy-MM&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+*Open to full-time* **AI · ML · Backend Engineering** *roles — 2026*
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-makwana-5331a4319/)
+[![Email](https://img.shields.io/badge/madhavmakwana.mm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavmakwana.mm@gmail.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>

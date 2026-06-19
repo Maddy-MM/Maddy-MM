@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-makwana-5331a4319/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavmakwana.mm@gmail.com)
@@ -218,10 +219,6 @@ Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dat
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maddy-MM&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true&area_color=1f3a5f" width="100%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maddy-MM&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
 </div>
 
 ---
@@ -232,12 +229,16 @@ Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dat
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-makwana-5331a4319/)
 [![Email](https://img.shields.io/badge/madhavmakwana.mm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavmakwana.mm@gmail.com)
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&width=350">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="max-width: 80%; height: auto;" />
+</picture>
 
 <br/>
 

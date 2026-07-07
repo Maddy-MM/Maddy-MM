@@ -23,16 +23,16 @@
 ```python
 class MadhavMakwana:
     def __init__(self):
-        self.role      = "AI Engineer · Backend · MLOps"
+        self.role      = "GenAI Engineer · Agentic AI · Backend"
         self.education = "B.Tech Engineering Physics — DTU, New Delhi (2026)"
         self.builds    = [
-            "Production RAG pipelines — real retrieval, real evals, real infra",
-            "Multi-agent LLM systems with observability baked in from day one",
-            "Hardened FastAPI backends — JWT, caching, logging, Dockerized",
-            "ML inference APIs that survive production traffic",
+            "Secure, cost-aware LLM gateways — circuit breakers, semantic caching, prompt-injection defense",
+            "Multi-agent systems that critique and rewrite their own output before responding",
+            "RAG pipelines tuned for retrieval quality — MMR, hybrid search, grounded generation",
+            "Production-hardened FastAPI backends — JWT, Redis, Prometheus/Grafana, deployed on Docker + AWS EC2",
         ]
-        self.currently = "Exploring advanced agentic patterns & LLM evaluation"
-        self.open_to   = "Full-time AI · ML · Backend Engineering roles — 2026"
+        self.currently = "Shipping GenAI infra to the cloud & going deeper on LLM evaluation"
+        self.open_to   = "Full-time GenAI Engineer · Agentic AI · Backend Engineering roles — 2026"
 
     def philosophy(self) -> str:
         return "Working in notebooks is a prototype. Working in production is the goal."
@@ -224,14 +224,19 @@ Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dat
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Maddy-MM?style=for-the-badge&color=58A6FF&labelColor=0d1117&logoColor=white)
-![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMaddy-MM%2Fstarred)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMaddy-MM)
-![Top Language](https://img.shields.io/github/languages/top/Maddy-MM/llm-gateway?style=for-the-badge&color=58A6FF&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Maddy-MM?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=star&logoColor=white&label=Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMaddy-MM%2Fstarred)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=white&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMaddy-MM)
+![Top Language](https://img.shields.io/github/languages/top/Maddy-MM/llm-gateway?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=python&logoColor=white)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Maddy-MM&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+**Featured Repo — [LLM Gateway](https://github.com/Maddy-MM/llm-gateway)**
+
+![Stars](https://img.shields.io/github/stars/Maddy-MM/llm-gateway?style=flat-square&color=58A6FF&labelColor=0d1117&logo=github&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/Maddy-MM/llm-gateway?style=flat-square&color=58A6FF&labelColor=0d1117&logo=git&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/Maddy-MM/llm-gateway?style=flat-square&color=58A6FF&labelColor=0d1117&logo=files&logoColor=white)
+![Issues](https://img.shields.io/github/issues/Maddy-MM/llm-gateway?style=flat-square&color=58A6FF&labelColor=0d1117&logo=github&logoColor=white)
 
 <br/><br/>
 

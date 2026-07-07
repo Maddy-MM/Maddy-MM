@@ -74,6 +74,7 @@ class MadhavMakwana:
 **MLOps · DevOps · Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -86,6 +87,30 @@ class MadhavMakwana:
 ---
 
 ## 🚀 Projects
+
+<details open>
+<summary><b>🛡️ LLM Gateway — Secure, Cost-Aware Routing Proxy for LLM APIs</b></summary>
+
+<br/>
+
+> The production problems every LLM app hits — outages, redundant calls, runaway spend, prompt injection — solved from scratch, not wrapped around LiteLLM.
+
+OpenAI-compatible gateway (`/v1/chat/completions`) routing across Groq (primary) and OpenAI (fallback) behind a hand-rolled circuit breaker. Dual-layer caching — Redis exact-match plus FAISS semantic similarity — cuts redundant LLM calls on near-duplicate prompts. Embedding-similarity prompt injection/jailbreak detection blocks adversarial requests before they reach a model, with audit logging of block reasons. A per-API-key token/cost ledger enforces hard budget caps (429 on overrun). Deployed as a multi-container Docker Compose stack to a live, publicly reachable AWS EC2 instance.
+
+| Layer | Stack |
+|---|---|
+| Routing & resilience | FastAPI · Groq API · OpenAI API · hand-rolled circuit breaker |
+| Caching | Redis exact-match · FAISS semantic similarity |
+| Security | Embedding-similarity prompt injection/jailbreak detection · audit logging |
+| Cost control | Per-API-key token/cost ledger · hard budget-cap enforcement |
+| Observability | Prometheus · Grafana · pytest suite with mocked providers |
+| Deployment | Docker Compose · AWS EC2 (Ubuntu) |
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM/llm-gateway)
+
+</details>
+
+---
 
 <details open>
 <summary><b>🧠 ResearchMind — Multi-Agent AI Research System</b></summary>
@@ -134,7 +159,12 @@ End-to-end RAG pipeline: transcript ingestion → BGE embeddings → FAISS vecto
 
 ---
 
-<details open>
+<details>
+<summary><b>📦 Other Projects</b></summary>
+
+<br/>
+
+<details>
 <summary><b>🚗 Car Price Prediction API — Production ML Inference</b></summary>
 
 <br/>
@@ -156,8 +186,6 @@ scikit-learn `ColumnTransformer` pipeline (scaling + encoding) served via FastAP
 
 </details>
 
----
-
 <details>
 <summary><b>🎬 Film Recommendation Engine — Content-Based Filtering</b></summary>
 
@@ -170,8 +198,6 @@ Content-based recommender using TF-IDF vectorization over genre, cast, crew, and
 `Python` · `scikit-learn` · `TF-IDF` · `Cosine Similarity` · `TMDB API` · `Streamlit`
 
 </details>
-
----
 
 <details>
 <summary><b>📩 SMS Spam Classifier — NLP Pipeline</b></summary>
@@ -186,8 +212,6 @@ Binary spam classifier on the UCI SMS dataset. Preprocessing: tokenization, Port
 
 </details>
 
----
-
 <details>
 <summary><b>🧬 Customer Churn Prediction — ANN + REST API</b></summary>
 
@@ -198,6 +222,8 @@ Binary spam classifier on the UCI SMS dataset. Preprocessing: tokenization, Port
 Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dataset, ~86% accuracy. Exposed via FastAPI with Pydantic input validation. Containerized and published to Docker Hub — one-command deployment.
 
 `Python` · `TensorFlow/Keras` · `FastAPI` · `Pydantic` · `Docker`
+
+</details>
 
 </details>
 

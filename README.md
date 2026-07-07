@@ -224,15 +224,12 @@ Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dat
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maddy-MM&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy-MM&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook"/>
+![Followers](https://img.shields.io/github/followers/Maddy-MM?style=for-the-badge&color=58A6FF&labelColor=0d1117&logoColor=white)
+![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMaddy-MM%2Fstarred)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMaddy-MM)
+![Top Language](https://img.shields.io/github/languages/top/Maddy-MM/llm-gateway?style=for-the-badge&color=58A6FF&labelColor=0d1117)
 
-<br/>
-
-<img width="68%" src="https://streak-stats.demolab.com?user=Maddy-MM&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e"/>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Maddy-MM&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 

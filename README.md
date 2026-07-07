@@ -233,6 +233,10 @@ Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dat
 
 <img src="https://github-profile-trophy.vercel.app/?username=Maddy-MM&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Maddy-MM/Maddy-MM/output/github-snake-dark.svg" width="100%"/>
+
 </div>
 
 ---

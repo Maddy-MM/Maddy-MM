@@ -171,18 +171,9 @@ End-to-end RAG pipeline: transcript ingestion → BGE embeddings → FAISS vecto
 
 > A Random Forest model that's actually deployed, cached, monitored, and load-tested.
 
-scikit-learn `ColumnTransformer` pipeline (scaling + encoding) served via FastAPI. Redis eliminates redundant inference on repeated inputs. Prometheus + Grafana for observability. Locust for load testing. Dual-layer auth before any of that even runs.
+scikit-learn `ColumnTransformer` pipeline (scaling + encoding) served via FastAPI, with Redis caching redundant inference, dual-layer JWT + API key auth, and Prometheus/Grafana observability. Load-tested with Locust.
 
-| Layer | Stack |
-|---|---|
-| Inference | scikit-learn Random Forest · ColumnTransformer · joblib |
-| Caching | Redis — eliminates redundant inference on repeated inputs |
-| Auth | JWT + API key dual-layer · custom logging middleware |
-| Observability | Prometheus · Grafana dashboards · Locust load testing |
-| Deployment | Docker · Render |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://car-value-inference-api.onrender.com/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy-MM/car-value-inference-api)
+`Python` · `scikit-learn` · `FastAPI` · `Redis` · `JWT` · `Prometheus` · `Grafana` · `Locust` · `Docker`
 
 </details>
 
@@ -233,7 +224,7 @@ Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dat
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maddy-MM&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maddy-MM&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy-MM&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook"/>
 
@@ -243,7 +234,7 @@ Compact ANN (ReLU hidden layers, sigmoid output) on the bank Churn Modelling dat
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maddy-MM&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true&area_color=1f3a5f" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Maddy-MM&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
